@@ -1,5 +1,5 @@
 FROM alpine
-MAINTAINER Josh Kastang <josh.kastang@gmail.com>
+MAINTAINER johnross41
 
 ENV RIPME_VER 1.7.93
 
